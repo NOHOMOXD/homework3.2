@@ -1,0 +1,14 @@
+{
+    "name": "NOHOMO/hello",
+    "authors": [
+        {
+            "name": "NOHOMO",
+            "email": "loparev7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Otus\\" : "src/Otus"
+        }
+    }
+}
