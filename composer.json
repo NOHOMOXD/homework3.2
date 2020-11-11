@@ -12,6 +12,7 @@
             "email": "loparev7@gmail.com"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Otus\\" : "src/Otus"
