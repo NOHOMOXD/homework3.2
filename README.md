@@ -3,4 +3,4 @@
 1. Прислать команду для клонирования с гита. 
    git clone https://github.com/NOHOMOXD/homework3.2.git
 2. Прислать команду для установки через composer.
-   composer require nohomo/hello
+   composer require nohomo/hello @dev
